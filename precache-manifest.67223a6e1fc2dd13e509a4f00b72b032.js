@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5282f968a97c7d1da67a5f4846c21bf4",
+    "revision": "2fb4d5650eab14bb1ca30a66b237f2b8",
     "url": "/insurance_claims/index.html"
   },
   {
-    "revision": "8dfbb34653d44a042b22",
+    "revision": "a6ebfb6e82138d7aa913",
     "url": "/insurance_claims/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "596e45deeb18790b833b",
-    "url": "/insurance_claims/static/css/main.11452a80.chunk.css"
+    "revision": "4b708fa2aae6d6945c12",
+    "url": "/insurance_claims/static/css/main.ea667dc7.chunk.css"
   },
   {
-    "revision": "8dfbb34653d44a042b22",
+    "revision": "a6ebfb6e82138d7aa913",
     "url": "/insurance_claims/static/js/2.4837c030.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insurance_claims/static/js/2.4837c030.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "596e45deeb18790b833b",
-    "url": "/insurance_claims/static/js/main.074e80fe.chunk.js"
+    "revision": "4b708fa2aae6d6945c12",
+    "url": "/insurance_claims/static/js/main.f14e136d.chunk.js"
   },
   {
     "revision": "df80ccffa33f9b9f1937",
